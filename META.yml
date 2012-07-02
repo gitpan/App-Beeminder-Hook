@@ -21,5 +21,7 @@ requires:
   Data::Dumper: 0
   JSON::Any: 0
   autodie: 0
-  feature: 0
-version: 0.001
+resources:
+  homepage: http://github.com/letolabs/App-Beeminder-Hook
+  repository: http://github.com/letolabs/App-Beeminder-Hook.git
+version: 0.002

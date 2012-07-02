@@ -1,7 +1,6 @@
 package App::Beeminder::Hook;
 use Dancer ':syntax';
 use JSON::Any;
-use feature 'say';
 use autodie;
 use Data::Dumper;
 
@@ -62,7 +61,7 @@ App::Beeminder::Hook - Integrate Github and Beeminder
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 

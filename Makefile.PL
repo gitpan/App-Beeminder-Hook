@@ -30,10 +30,9 @@ my %WriteMakefileArgs = (
     "Dancer" => 0,
     "Data::Dumper" => 0,
     "JSON::Any" => 0,
-    "autodie" => 0,
-    "feature" => 0
+    "autodie" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }
