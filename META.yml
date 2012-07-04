@@ -20,8 +20,9 @@ requires:
   Dancer: 0
   Data::Dumper: 0
   JSON::Any: 0
+  YAML: 0
   autodie: 0
 resources:
   homepage: http://github.com/letolabs/App-Beeminder-Hook
   repository: http://github.com/letolabs/App-Beeminder-Hook.git
-version: 0.002
+version: 0.003
